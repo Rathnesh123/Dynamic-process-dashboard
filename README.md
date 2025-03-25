@@ -48,10 +48,15 @@ Python 3.x – The core language used for backend processing, system monitoring,
 **Example Output**
 
 Timestamp: 2024-03-24 12:30:45
+
 CPU Usage: 45.2%
+
 Memory Usage: 68.3%
+
 Disk Usage: 52.7%
+
 Network Speed: 1.2 MB/s
+
 Top Processes:
 - Process: Chrome.exe, PID: 10234, CPU: 10.5%, Memory: 512 MB
 - Process: Python.exe, PID: 4536, CPU: 8.7%, Memory: 256 MB
