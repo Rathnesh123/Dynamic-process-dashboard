@@ -26,7 +26,7 @@ Built using Python, Dash, and Plotly, this interactive tool provides graphical i
 
 Python 3.x – The core language used for backend processing, system monitoring, and visualization.
 
-  **Libraries and Tools:**
+ **Libraries and Tools:**
 1. Dash- Builds the interactive web-based dashboard.
 2. Plotly- Creates real-time graphs and visualizations.
 3. Psutil- Retrieves real-time system statistics (CPU, Memory, Disk, Network).
