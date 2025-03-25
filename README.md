@@ -39,6 +39,7 @@ Python 3.x – The core language used for backend processing, system monitoring,
 2. VS Code- Development environment for writing and testing Python code.
 
 **Usage**
+
 1.The system collects CPU, Memory, Disk, and Network usage using psutil.
 2. The running processes are sorted by CPU usage and displayed in a table.
 3️. Data updates every second to provide real-time monitoring.
