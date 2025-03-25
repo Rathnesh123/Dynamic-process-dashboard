@@ -33,7 +33,8 @@ Python 3.x – The core language used for backend processing, system monitoring,
 4. collections.deque-Efficiently stores real-time system metrics for fast updates.
 5. pandas- Logs and reports system data for later analysis.
 6. Flask (built into Dash)- Provides the backend for serving the dashboard.
-   **Miscellaneous Tools:**
+
+    **Miscellaneous Tools:**
 1. GitHub- Version control and project collaboration.
 2. VS Code- Development environment for writing and testing Python code.
 
